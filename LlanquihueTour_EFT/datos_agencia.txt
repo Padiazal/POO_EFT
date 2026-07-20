@@ -1,0 +1,3 @@
+CLIENTE;Juan Perez;12345678-9;Calle Roble 123;Puerto Montt;Premium
+GUIA;Camila Vega;15666777-K;Av. Costanera 44;Llanquihue;Senderismo
+PAQUETE;Ruta Los Pinos;Canopi y cuevas;09:30 - 17:00;Juan Perez;55000
